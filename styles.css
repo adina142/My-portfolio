@@ -28,3 +28,24 @@ body {
     transform: scale(1.05);
 }
 
+.progress {
+    height: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.progress-bar {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    line-height: 25px; 
+}
+.fade-in {
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
