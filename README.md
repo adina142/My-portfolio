@@ -1,8 +1,10 @@
 # My-portfolio
  My Portfolio Template using html and css.
+
 Navbar: A fixed-top navigation bar that helps users easily navigate between different sections of the portfolio, such as Home, Education, Skills, Projects, Certificates, and Contact.
 
 Sidebar: A side navigation menu that provides quick access to the sections of the portfolio, particularly useful on mobile devices. This sidebar is hidden initially on smaller screens and can be toggled using a button.
+
 
 Home Section: An introductory section where I present myself with a brief bio, showcasing my academic background, skills, and aspirations. It includes a profile picture and a welcome message.
 
@@ -22,6 +24,5 @@ Contact Section: A contact form where visitors can reach out to me, providing fi
 Some Key Highlights:
 Responsive Design: The website adapts well to different screen sizes with the use of Bootstrap and custom CSS, ensuring a good user experience across devices.
 Interactive Features: The sidebar toggle feature and the carousel for displaying certificates add interactivity to the design.
-Project Showcase: Your projects are presented with descriptions and images, giving visitors a clear understanding of your work and expertise.
 Here is my Live Demo Link of PortFolio.
 https://adina142.github.io/My-portfolio/
