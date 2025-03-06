@@ -8,7 +8,7 @@ Home Section: An introductory section where I present myself with a brief bio, s
 
 Education Section: A table displaying my academic history, including matriculation, intermediate, and ongoing Bachelor's degree details.
 
-Skills Section: A section that displays your skill sets in various areas like Mobile-App development, Artificial Intelligence, MySQL, Java, and C++ with progress bars indicating my proficiency in each skill.
+Skills Section: A section that displays my skill sets in various areas like Mobile-App development, Artificial Intelligence, MySQL, Java, and C++ with progress bars indicating my proficiency in each skill.
 
 Projects Section: A showcase of my key projects, where each project is described along with an image. The projects mentioned include:
 
