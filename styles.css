@@ -1,0 +1,45 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('assests/bg.jpg') no-repeat center center/cover;
+    background-attachment: fixed; /* Keeps the image fixed on scroll */
+    color: white; /* Ensures text visibility */
+}
+
+/* Profile Picture Animation */
+#profile-pic {
+    width: 150px;
+    height: 150px;
+    transition: transform 0.5s ease-in-out;
+}
+
+#profile-pic:hover {
+    transform: scale(1.1) rotate(5deg);
+}
+
+/* Button Styling */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+/* Card Styling */
+.card {
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s;
+    background: rgba(255, 255, 255, 0.1); /* Slight transparency */
+    backdrop-filter: blur(5px); /* Blurry glass effect */
+    color: white;
+}
+
+.card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
