@@ -48,3 +48,17 @@ body {
     0% { opacity: 0; }
     100% { opacity: 1; }
 }
+
+
+.card {
+    border-radius: 10px;
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s;
+    background: rgba(255, 255, 255, 0.9); 
+    color: black; 
+}
+
+.card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
